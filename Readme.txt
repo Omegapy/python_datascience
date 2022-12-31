@@ -8,6 +8,7 @@ Codecademy Machine Learning, Data Scientist Path.
 Alejandro (Alex) Ricciardi
 2021
 Also see my old github:
+https://github.com/ARiccGitHub
 
 ----------------------------------------------------------------------------------------
 Overview:
