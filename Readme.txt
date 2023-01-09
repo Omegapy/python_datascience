@@ -13,7 +13,7 @@ https://github.com/ARiccGitHub
 ----------------------------------------------------------------------------------------
 Overview:
 
-This are collection of assignments from Codecademy Machine Learning, Data Scientist Path
+This are a collection of assignments from Codecademy Machine Learning, Data Scientist Path
 
 ----------------------------------------------------------------------------------------
 
